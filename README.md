@@ -1,1 +1,1 @@
-# even_or_odd-checker
+an even number checker program
